@@ -15,7 +15,7 @@ To have better understanding of factors impacting passenger satisfactions and hi
 
 Tools:
 
-Python (Pandas, Matplotlib/Seaborn)
+Python (Pandas, Matplotlib, Seaborn)
 
 MySQL
 
