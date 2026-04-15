@@ -12,7 +12,7 @@ To have better understanding of factors impacting passenger satisfactions and hi
 
 Dataset:
 
-Dataset is fetched from Kaggle and raw uncleaned dataset is mentioned in project repository as Raw_Dataset.csv. Columns inside dataset are segregated for my better understanding. Segregation is done as mentioned below
+Dataset is fetched from Kaggle and raw uncleaned dataset is mentioned in project repository as Raw_Dataset.csv. Columns inside dataset are segregated for better understanding. Segregation is done as mentioned below
 
 1. Passenger profile: Gender, Age, Customer Type 
 
